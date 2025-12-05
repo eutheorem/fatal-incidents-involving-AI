@@ -1,0 +1,39 @@
+concept,total_occurrence,concept_group,tier1_terms,tier2_terms,tier3_terms,vjust
+Google,12,Suicide,,Google,,1.5
+United States,20,Unmanned aerial vehicle,,United States,,3
+Unmanned aerial vehicle,37,Unmanned aerial vehicle,Unmanned aerial vehicle,,,1.5
+Ukraine,23,Unmanned aerial vehicle,,Ukraine,,2.2
+Russia,16,Unmanned aerial vehicle,,Russia,,0.5
+Kamikaze,5,Unmanned aerial vehicle,,,Kamikaze,1.5
+Tesla,25,Tesla,Tesla,,,1.5
+Elon Musk,8,Tesla,,,Elon Musk,1.5
+United States dollar,6,Tesla,,,United States dollar,1.5
+Autopilot,12,Tesla,,Autopilot,,1.5
+Lawsuit,13,other,,Lawsuit,,1.5
+Self-driving car,9,Tesla,,,Self-driving car,1.5
+TikTok,11,Suicide,,TikTok,,1.5
+Iran,5,Unmanned aerial vehicle,,,Iran,1.5
+Chatbot,11,Suicide,,Chatbot,,1.5
+Tesla Model S,4,Tesla,,,Tesla Model S,1.5
+Legal proceeding,6,Suicide,,,Legal proceeding,1.5
+Startup company,6,Suicide,,,Startup company,1.5
+Israel Defense Forces,11,other,,Israel Defense Forces,,2.5
+Suicide,17,Suicide,Suicide,,,1.5
+Armed Forces of Ukraine,7,Unmanned aerial vehicle,,,Armed Forces of Ukraine,1.5
+Mobile app,5,Suicide,,,Mobile app,1.5
+Microsoft,9,Israel,,,Microsoft,1.5
+Israel,15,Israel,Israel,,,1.5
+Gaza Strip,5,Israel,,,Gaza Strip,1.5
+Robot,8,other,,,Robot,1.5
+Gaza City,9,Israel,,,Gaza City,1.5
+Google Maps,4,other,,,Google Maps,1.5
+Cloud computing,4,Israel,,,Cloud computing,1.5
+Chief executive officer,6,Israel,,,Chief executive officer,1.5
+Hamas,7,other,,,Hamas,1.5
+Electric vehicle,5,Tesla,,,Electric vehicle,1.5
+National Highway Traffic Safety Administration,10,Tesla,,,National Highway Traffic Safety Administration,1.5
+Vehicular automation,4,Tesla,,,Vehicular automation,1.5
+Tesla Autopilot,6,Tesla,,,Tesla Autopilot,1.5
+Kyiv,4,Unmanned aerial vehicle,,,Kyiv,1.5
+Ministry of Defence (Russia),4,Unmanned aerial vehicle,,,Ministry of Defence (Russia),1.5
+Explosive,4,Unmanned aerial vehicle,,,Explosive,1.5
